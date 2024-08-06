@@ -1,4 +1,4 @@
-Neural Network from Scratch for MNIST Handwritten Digits Recognition
+#Neural Network from Scratch for MNIST Handwritten Digits Recognition
 Overview
 A Python implementation of a neural network from scratch for recognizing handwritten digits using the MNIST dataset.
 
